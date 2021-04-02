@@ -1,0 +1,5 @@
+Maths,11395,jamshed,100.0
+English,11395,jamshed,20.0
+Maths,11224,hammad,100.0
+English,11224,hammad,80.0
+IQ,11395,jamshed,100.0
